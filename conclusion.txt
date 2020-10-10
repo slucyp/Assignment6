@@ -1,0 +1,4 @@
+## Conclusion
+
+Our work complements existing approaches to define domain specific cost functions. In the future we plan to incorporate quantum computing to speed up inference over multiple flows.
+ 
